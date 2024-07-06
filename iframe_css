@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Cansu</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Teknoloji Bağımlılığı!</h1>
+    <p>Bu, bir kişinin belirli teknolojiler ve cihazlar olmadan yapamadığı bir  bağımlılık türüdür.
+        Bu teknolojilere olan aşırı bağımlılık kişinin fonksiyonel yeteneklerini önemli ölçüde köreltebilir. Bu da yaşam kalitesi üzerinde ciddi olumsuz etkilere neden olabilir.</p>
+    <h2>Teknoloji bağımlılığı Türleri</h2>
+             <ul>
+                   <li> Sosyal Medya</li>
+                   <li>Akıllı telefonlar ve tabletler</li>
+             </ul>
+     <img src="https://ogrenenaile.com.tr/uploads/images/86f15a17dae278a475b7b47794b48249d0a1c496.png" alt="Image1">
+
+<div><iframe src="https://www.meteoblue.com/tr/hava/widget/daily/ip_romanya_675514?geoloc=fixed&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/tr/hava/hafta/ip_romanya_675514?utm_source=daily_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div></div>
+
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/n9Ej5E47TNI?si=gZIPWAaKDMSqZDri" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<div><iframe width="560" height="315" allow="fullscreen; autoplay; encrypted-media" src="https://games.construct.net/1726/latest" frameborder="0" allowfullscreen="true" msallowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true" allowpaymentrequest="false" referrerpolicy="unsafe-url" sandbox="allow-same-origin allow-forms allow-scripts allow-pointer-lock allow-orientation-lock allow-popups" scrolling="no"></iframe></div>
+    </body>
+</html>
